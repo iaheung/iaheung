@@ -1,5 +1,5 @@
 [![English](https://img.shields.io/badge/lang-en-green.svg)](https://github.com/iaheung/iaheung/edit/main/README.md)
-[![日本語](https://img.shields.io/badge/lang-jp-red.svg)](https://github.com/iaheung/iaheung/edit/main/README.md)
+[![日本語](https://img.shields.io/badge/lang-jp-red.svg)](https://github.com/iaheung/iaheung/edit/main/README-JP.md)
 
 # Hi there, I'm Ian Heung. Welcome to my GitHub! 👋
 

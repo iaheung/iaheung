@@ -1,16 +1,20 @@
-### Hi there 👋
+# Hi there, I'm Ian Heung. Welcome to my GitHub! 👋
+# 初めまして！香凱仁と申します！私のGitHubへようこそ！ 👋
 
-<!--
-**iaheung/iaheung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌱 I’m currently learning C, SQL, and PyTorch.
+## 🌱 現在、C、SQL、とPyTorchを学んでいます。
 
-Here are some ideas to get you started:
+## 🔭 I'm part of the research group ALPhA at Davidson College, where I work on applications in machine learning for physics experiments
+## 🔭 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 How to reach me:
+- Email: [your.email@example.com](mailto:your.email@example.com)
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-id/)
+
+## ⚡ Fun fact:
+- A fun fact about you!
+
+## 📊 GitHub Stats:
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&show_icons=true)
+

@@ -1,17 +1,21 @@
+[![English](https://img.shields.io/badge/lang-en-green.svg)](https://github.com/iaheung/iaheung/edit/main/README.md)
+[![日本語](https://img.shields.io/badge/lang-jp-red.svg)](https://github.com/iaheung/iaheung/edit/main/README.md)
+
 # Hi there, I'm Ian Heung. Welcome to my GitHub! 👋
-# 初めまして！香凱仁と申します！私のGitHubへようこそ！ 👋
 
-## 🌱 I’m currently learning C, SQL, and PyTorch.
-## 🌱 現在、C、SQL、とPyTorchを学んでいます。
+### Currently Learning 🌱 
+- I am currently learning C, SQL, and PyTorch.
+- I am also learning how to use 3D sparse tensor networks
+   
+### 🔭 Research
+- I'm part of the research group ALPhA at Davidson College, where I work on applications in machine learning for physics experiments
+- Here are the projects I have worked on
+  
+### 📫 How to reach me:
+- General Email: [ianhyheung@gmail.com](mailto:ianhyheung@gmail.com)
+- School Email: [iaheung@davidson.edu](mailto:iaheung@davidson.edu)
 
-## 🔭 I'm part of the research group ALPhA at Davidson College, where I work on applications in machine learning for physics experiments
-## 🔭 
-
-## 📫 How to reach me:
-- Email: [your.email@example.com](mailto:your.email@example.com)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-id/)
-
-## ⚡ Fun fact:
+###⚡ Fun fact:
 - A fun fact about you!
 
 ## 📊 GitHub Stats:

@@ -22,6 +22,7 @@
 ### 😄 Check out my [Portfolio](https://github.com/iaheung/iaheung/edit/main/README.md) as well!
 
 <br>
+---
 
 # こんにちは、香凱仁です。私のGitHubへようこそ！👋
 

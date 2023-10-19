@@ -10,8 +10,8 @@
 ### 🔭 Research
 - I'm part of the research group ALPhA at Davidson College, where I work on applications in machine learning for physics experiments
 - Here are the projects I have worked on:
-  - [3D Sparse Tensor Networks (Current)](https://github.com/iaheung/torchsparse)
-  - [2D&3D CNN Particle Classification](https://github.com/iaheung/2D3DCNN_Event_Classification)
+   - [3D Sparse Tensor Networks (Current)](https://github.com/iaheung/torchsparse)
+   - [2D&3D CNN Particle Classification](https://github.com/iaheung/2D3DCNN_Event_Classification)
   
 ### 📫 How to reach me:
 - General Email: [ianhyheung@gmail.com](mailto:ianhyheung@gmail.com)

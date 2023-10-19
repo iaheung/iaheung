@@ -14,15 +14,16 @@
 - General Email: [ianhyheung@gmail.com](mailto:ianhyheung@gmail.com)
 - School Email: [iaheung@davidson.edu](mailto:iaheung@davidson.edu)
 
-### ⚡ Fun fact:
-- I play basketball and badminton
-- I love watching baseball, my favourite player is Sasaki Rouki
+### ⚡ Interests:
+- Programming and Physics (Of Course) 💻
+- Basketball and badminton 🏀🏸
+- Watching baseball, my favourite player is Sasaki Rouki ⚾
 
 ### 😄 Check out my [Portfolio](https://github.com/iaheung/iaheung/edit/main/README.md) as well!
 
 <br>
 
-# こんにちは、私は香凱仁です。私のGitHubへようこそ！👋
+# こんにちは、香凱仁です。私のGitHubへようこそ！👋
 
 ### 🌱 現在学習中 
 - 現在、C、SQL、とPyTorchを学んでいます。
@@ -38,8 +39,9 @@
 - 一般メール: [ianhyheung@gmail.com](mailto:ianhyheung@gmail.com)
 - 学校メール: [iaheung@davidson.edu](mailto:iaheung@davidson.edu)
 
-### ⚡ おもしろい事実:
-- バスケットボールとバドミントンをやるのが好きです。
-- 野球観戦のが好きで、お気に入りの選手は佐々木朗希です。
+### ⚡ 趣味:
+- プログラミングと物理（もちろん）💻
+- バスケットボールとバドミントン　🏀🏸
+- 野球観戦、好きな選手は佐々木朗希　⚾
 
 ### 😄 [ポートフォリオ](https://github.com/iaheung/iaheung/edit/main/README.md)も是非チェックしてください！

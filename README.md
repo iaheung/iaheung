@@ -1,5 +1,5 @@
 [![English](https://img.shields.io/badge/lang-en-green.svg)](https://github.com/iaheung)
-[![日本語](https://img.shields.io/badge/lang-jp-red.svg)](https://github.com/iaheung/main/README-JP.md)
+[![日本語](https://img.shields.io/badge/lang-jp-red.svg)](https://github.com/iaheung/iaheung/blob/main/README-JP.md)
 
 # Hi there, I'm Ian Heung. Welcome to my GitHub! 👋
 
@@ -9,7 +9,9 @@
    
 ### 🔭 Research
 - I'm part of the research group ALPhA at Davidson College, where I work on applications in machine learning for physics experiments
-- Here are the projects I have worked on
+- Here are the projects I have worked on:
+  - [3D Sparse Tensor Networks (Current)](https://github.com/iaheung/torchsparse)
+  - [2D&3D CNN Particle Classification](https://github.com/iaheung/2D3DCNN_Event_Classification)
   
 ### 📫 How to reach me:
 - General Email: [ianhyheung@gmail.com](mailto:ianhyheung@gmail.com)

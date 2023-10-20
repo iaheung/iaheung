@@ -19,7 +19,7 @@
 - Basketball and badminton 🏀🏸
 - Watching baseball, my favourite player is Sasaki Rouki ⚾
 
-### 😄 Check out my [Portfolio](https://github.com/iaheung/iaheung/edit/main/README.md) as well!
+### 😄 Check out my [Portfolio](https://iaheung.github.io) as well!
 
 <br>
 
@@ -46,4 +46,4 @@
 - バスケットボールとバドミントン　🏀🏸
 - 野球観戦、好きな選手は佐々木朗希　⚾
 
-### 😄 [ポートフォリオ](https://github.com/iaheung/iaheung/edit/main/README.md)も是非チェックしてください！
+### 😄 [ポートフォリオ](https://iaheung.github.io)も是非チェックしてください！

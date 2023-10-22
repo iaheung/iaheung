@@ -9,6 +9,8 @@
 - Here are the projects I have worked on:
    - [3D Sparse Tensor Networks (Current)](https://github.com/iaheung/torchsparse)
    - [2D&3D CNN Particle Classification](https://github.com/iaheung/2D3DCNN_Event_Classification)
+- I also worked at the Okinawa Institute of Science and Technology as a research intern, where I worked on implementing a PID controller and digital filters using HDL coding
+   - [Experimental Quantum Information Physics Unit Research](https://github.com/iaheung/oist_research/)
   
 ### 📫 How to reach me:
 - General Email: [ianhyheung@gmail.com](mailto:ianhyheung@gmail.com)
@@ -36,6 +38,8 @@
 - これまでに取り組んだプロジェクト：
   - [三次元スパーステンソル（現在）](https://github.com/iaheung/torchsparse)
   - [二、三次元CNN量子分類](https://github.com/iaheung/2D3DCNN_Event_Classification)
+- 沖縄科学技術大学院大学で、リサーチインターンとして参加し、HDLプログラミングのPID制御とデジタルフィルターの実装に取り組みました。
+  - [量子情報物理実験ユニットの研究](https://github.com/iaheung/oist_research/)
 
 ### 📫 連絡先:
 - 一般メール: [ianhyheung@gmail.com](mailto:ianhyheung@gmail.com)

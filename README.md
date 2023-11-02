@@ -17,7 +17,7 @@
 - School Email: [iaheung@davidson.edu](mailto:iaheung@davidson.edu)
 
 ### ⚡ Interests:
-- Programming and Physics (Of Course) 💻
+- Programming and Physics 💻
 - Basketball and badminton 🏀🏸
 - Watching baseball, my favourite player is Sasaki Rouki ⚾
 
@@ -46,7 +46,7 @@
 - 学校メール: [iaheung@davidson.edu](mailto:iaheung@davidson.edu)
 
 ### ⚡ 趣味:
-- プログラミングと物理（もちろん）💻
+- プログラミングと物理　💻
 - バスケットボールとバドミントン　🏀🏸
 - 野球観戦、好きな選手は佐々木朗希　⚾
 

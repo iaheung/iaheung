@@ -37,7 +37,7 @@
 - デイビッドソン大学の研究グループALPhAに所属しており、物理実験における機械学習の応用に関する研究を行っています。
 - これまでに取り組んだプロジェクト：
   - [三次元スパーステンソル（現在）](https://github.com/iaheung/torchsparse)
-  - [二、三次元CNN量子分類](https://github.com/iaheung/2D3DCNN_Event_Classification)
+  - [二、三次元CNN粒子分類](https://github.com/iaheung/2D3DCNN_Event_Classification)
 - 沖縄科学技術大学院大学で、リサーチインターンとして参加し、HDLプログラミングのPID制御とデジタルフィルターの実装に取り組みました。
   - [量子情報物理実験ユニットの研究](https://github.com/iaheung/oist_research/)
 

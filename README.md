@@ -7,8 +7,8 @@
 ### 🔭 Research
 - I'm part of the research group ALPhA at Davidson College, where I work on applications in machine learning for physics experiments
 - Here are the projects I have worked on:
-   - [3D Sparse Tensor Networks (Current)](https://github.com/iaheung/torchsparse)
-   - [2D&3D CNN Particle Classification](https://github.com/iaheung/2D3DCNN_Event_Classification)
+   - [3D Sparse Convolutional Networks for Classification and Segmentation Tasks (Current)](https://github.com/iaheung/torchsparse)
+   - [Identifying Isotopes with Machine Learning](https://github.com/iaheung/2D3DCNN_Event_Classification)
 - I also worked at the Okinawa Institute of Science and Technology as a research intern, where I worked on implementing a PID controller and digital filters using HDL coding
    - [Experimental Quantum Information Physics Unit Research](https://github.com/iaheung/oist_research/)
   
@@ -36,8 +36,8 @@
 ### 🔭 研究
 - デイビッドソン大学の研究グループALPhAに所属しており、物理実験における機械学習の応用に関する研究を行っています。
 - これまでに取り組んだプロジェクト：
-  - [三次元スパーステンソル（現在）](https://github.com/iaheung/torchsparse)
-  - [二、三次元CNN粒子分類](https://github.com/iaheung/2D3DCNN_Event_Classification)
+  - [分類およびセグメンテーションタスクのための3Dスパース畳み込みネットワーク（現在）](https://github.com/iaheung/torchsparse)
+  - [機械学習による同位体の識別](https://github.com/iaheung/2D3DCNN_Event_Classification)
 - 沖縄科学技術大学院大学で、リサーチインターンとして参加し、HDLプログラミングのPID制御とデジタルフィルターの実装に取り組みました。
   - [量子情報物理実験ユニットの研究](https://github.com/iaheung/oist_research/)
 

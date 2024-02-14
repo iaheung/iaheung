@@ -1,6 +1,6 @@
 # Hi there, I'm Ian Heung. Welcome to my GitHub! 👋
 
-### About Me
+### ⚛️ About Me
 I am a senior at Davidson College, majoring in physics and minoring in computer science. I am interested in the intersection of machine learning and physics, and am interested in applying machine learning beyond physics applications.
    
 ### 🔭 Research

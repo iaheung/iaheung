@@ -14,7 +14,7 @@ I am interested in the application of data and machine learning to generate insi
 
 ### 🔭 Research
 CNN Machine Learning Projects
- - [3D Sparse Convolutional Networks for Classification and Segmentation Tasks (Current)](https://github.com/iaheung/attpc-torchsparse.git)
+ - [3D Sparse Convolutional Networks for Classification and Segmentation Tasks](https://github.com/iaheung/attpc-torchsparse.git)
  - [Identifying Isotopes with Machine Learning](https://github.com/iaheung/2D3DCNN_Event_Classification)
 
 FPGA Board HDL Coding with Verilog

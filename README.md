@@ -1,7 +1,7 @@
 # Hi there, I'm Ian Heung. Welcome to my GitHub! 👋
 
 ### ⚛️ About Me
-I am from Hong Kong, but studied in the United States for 4 years at Davidson College, graduating in May 2024 with a Bachelor of Science in Physics and computer science minor. I am now currently pursuing a postgraduate degree in the United Kingdom at University College London in the MSc. Scientific and Data Intensive Computing program.
+I am a postgraduate student based in London from Hong Kong. I went to university in the United States for 4 years at Davidson College, graduating in May 2024 with a Bachelor of Science in Physics and computer science minor. I am now currently pursuing a postgraduate degree in the United Kingdom at University College London in the MSc. Scientific and Data Intensive Computing program.
 
 I am interested in the application of data and machine learning to generate insights and solve complex problems, whether that be in physics, sports, or finance.
 
@@ -14,6 +14,7 @@ I am interested in the application of data and machine learning to generate insi
 CNN Machine Learning Projects
  - [3D Sparse Convolutional Networks for Classification and Segmentation Tasks (Current)](https://github.com/iaheung/attpc-torchsparse.git)
  - [Identifying Isotopes with Machine Learning](https://github.com/iaheung/2D3DCNN_Event_Classification)
+
 FPGA Board HDL Coding with Verilog
 - [Experimental Quantum Information Physics Unit Research](https://github.com/iaheung/oist_research/)
   

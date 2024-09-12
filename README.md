@@ -1,18 +1,24 @@
 # Hi there, I'm Ian Heung. Welcome to my GitHub! 👋
 
 ### ⚛️ About Me
-I graduated from Davidson College in May 2024 as a physics major and computer science minor. I am interested in the intersection of machine learning and physics, and the application of machine learning in underrepresented domains.
+I am from Hong Kong, but studied in the United States for 4 years at Davidson College, graduating in May 2024 with a Bachelor of Science in Physics and computer science minor. I am now currently pursuing a postgraduate degree in the United Kingdom at University College London in the MSc. Scientific and Data Intensive Computing program.
 
-I am currently pursuing a masters at University College London in Scientific and Data Intensive Computing.
-   
+I am interested in the application of data and machine learning to generate insights and solve complex problems, whether that be in physics, sports, or finance.
+
+### 📊 Data/ML Projects
+- [Bike Share Company Ridership Casestudy](https://github.com/iaheung/cyclistic_casestudy)
+- [Credit Card Fraud Detection with Machine Learning Models - Dealing Data Imbalance](https://github.com/iaheung/credit_card_fraud_analysis)
+- [NBA Allstar Predictor](https://github.com/iaheung/nba_allstar_predictor)
+
 ### 🔭 Research
-- Here are machine learning projects I have worked on in my research:
-   - [3D Sparse Convolutional Networks for Classification and Segmentation Tasks (Current)](https://github.com/iaheung/attpc-torchsparse.git)
-   - [Identifying Isotopes with Machine Learning](https://github.com/iaheung/2D3DCNN_Event_Classification)
-- I also participated in a research internship at the Okinawa Institute of Science and Technology, where I implemented a PID controller and digital filters onto an FPGA board with HDL coding
-   - [Experimental Quantum Information Physics Unit Research](https://github.com/iaheung/oist_research/)
+CNN Machine Learning Projects
+ - [3D Sparse Convolutional Networks for Classification and Segmentation Tasks (Current)](https://github.com/iaheung/attpc-torchsparse.git)
+ - [Identifying Isotopes with Machine Learning](https://github.com/iaheung/2D3DCNN_Event_Classification)
+FPGA Board HDL Coding with Verilog
+- [Experimental Quantum Information Physics Unit Research](https://github.com/iaheung/oist_research/)
   
 ### 📫 How to reach me:
 - Email: [ianhyheung@gmail.com](mailto:ianhyheung@gmail.com)
+- Linkdin [Ian Heung](https://www.linkedin.com/in/ian-heung-908b0a238/)
 
 ### 😄 Check out my [Portfolio](https://iaheung.github.io) as well!

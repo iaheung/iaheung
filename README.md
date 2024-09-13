@@ -10,12 +10,12 @@ I am interested in the application of data and machine learning to generate insi
 ### 📊 Data/ML Projects
 - [Bike Share Company Ridership Casestudy](https://github.com/iaheung/cyclistic_casestudy)
 - [Credit Card Fraud Detection with Machine Learning Models - Dealing Data Imbalance](https://github.com/iaheung/credit_card_fraud_analysis)
-- [NBA Allstar Predictor](https://github.com/iaheung/nba_allstar_predictor)
+- [NBA All Star Predictor](https://github.com/iaheung/nba_allstar_predictor)
 
 
 
 ### 🔭 Research
-CNN Machine Learning Projects
+Machine Learning Projects
  - [3D Sparse Convolutional Networks for Classification and Segmentation Tasks](https://github.com/iaheung/attpc-torchsparse.git)
  - [Identifying Isotopes with Machine Learning](https://github.com/iaheung/2D3DCNN_Event_Classification)
 

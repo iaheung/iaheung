@@ -8,11 +8,9 @@ I am now currently pursuing a postgraduate degree in the United Kingdom at Unive
 I am interested in the application of data and machine learning to generate insights and solve complex problems, whether that be in physics, sports, or finance.
 
 ### 📊 Data/ML Projects
-- [Bike Share Company Ridership Casestudy](https://github.com/iaheung/cyclistic_casestudy)
+- [Insider Trading Dashboard from Web Scraping](https://github.com/iaheung/insider_transactions_data_scraping)
 - [Credit Card Fraud Detection with Machine Learning Models - Dealing Data Imbalance](https://github.com/iaheung/credit_card_fraud_analysis)
-- [NBA All Star Predictor](https://github.com/iaheung/nba_allstar_predictor)
-
-
+- [Bike Share Company Ridership Casestudy](https://github.com/iaheung/cyclistic_casestudy)
 
 ### 🔭 Research
 Machine Learning Projects

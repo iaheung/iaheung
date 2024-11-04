@@ -13,19 +13,15 @@ I am interested in the application of data and machine learning to generate insi
 - [Bike Share Company Ridership Casestudy](https://github.com/iaheung/cyclistic_casestudy)
 
 ### 🔭 Research
-Machine Learning Projects
- - [3D Sparse Convolutional Networks for Classification and Segmentation Tasks](https://github.com/iaheung/attpc-torchsparse.git)
- - [Identifying Isotopes with Machine Learning](https://github.com/iaheung/2D3DCNN_Event_Classification)
+Machine Learning Projects (Code Available on Request)
+ - 3D Sparse Convolutional Networks for Classification and Segmentation Tasks
+ - Identifying Isotopes with Machine Learning
 
 FPGA Board HDL Coding with Verilog
 - [Experimental Quantum Information Physics Unit Research](https://github.com/iaheung/oist_research/)
 
-
-  
 ### 📫 How to reach me:
 - Email: [ianhyheung@gmail.com](mailto:ianhyheung@gmail.com)
 - Linkdin: [Ian Heung](https://www.linkedin.com/in/ian-heung-908b0a238/)
-
-
 
 ### 😄 Check out my [Portfolio](https://iaheung.github.io) as well!

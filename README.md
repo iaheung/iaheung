@@ -17,8 +17,8 @@ Machine Learning Projects (Code Available on Request)
  - 3D Sparse Convolutional Networks for Classification and Segmentation Tasks
  - Identifying Isotopes with Machine Learning
 
-FPGA Board HDL Coding with Verilog
-- [Experimental Quantum Information Physics Unit Research](https://github.com/iaheung/oist_research/)
+FPGA Board HDL Coding with Verilog (Code Available on Request)
+- Experimental Quantum Information Physics Unit Research
 
 ### 📫 How to reach me:
 - Email: [ianhyheung@gmail.com](mailto:ianhyheung@gmail.com)

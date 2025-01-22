@@ -5,8 +5,6 @@ I am a postgraduate student based in London from Hong Kong. I went to university
 
 I am now currently pursuing a postgraduate degree in the United Kingdom at University College London in the MSc. Scientific and Data Intensive Computing program. I am working on various data projects in my free time. Please check them out.
 
-I am interested in the application of data and machine learning to generate insights and solve complex problems, whether that be in physics, sports, or finance.
-
 ### 📊 Data/ML Projects
 - [Insider Trading Dashboard from Web Scraping](https://github.com/iaheung/insider_transactions_data_scraping)
 - [Credit Card Fraud Detection with Machine Learning Models - Dealing Data Imbalance](https://github.com/iaheung/credit_card_fraud_analysis)

@@ -21,5 +21,3 @@ FPGA Board HDL Coding with Verilog (Code Available on Request)
 ### 📫 How to reach me:
 - Email: [ianhyheung@gmail.com](mailto:ianhyheung@gmail.com)
 - Linkedin: [Ian Heung](https://www.linkedin.com/in/ian-heung-908b0a238/)
-
-### 😄 Check out my [Portfolio](https://iaheung.github.io) as well!
